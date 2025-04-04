@@ -1,4 +1,4 @@
-### Olá, eu sou weberson souza santos (webersonss) 👋
+### Olá! eu sou weberson souza santos (webersonss) 👋
 
 ✨ **Estudante** na [DIO](https://dio.me)
 
