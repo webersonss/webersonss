@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, eu sou weberson souza santos (webersonss) 👋
 
-<!--
-**webersonss/webersonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Estudante** na [DIO](https://dio.me)
 
-Here are some ideas to get you started:
+## **Atuação Profissional**
+- 👩‍🍳 cozinheiro  
+- 🦸‍♂️ vigilante formado na [Escola brasil de segurança](https://www.escoladeseguranca.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas no GitHub
+
+![webersonss GitHub stats](https://github-readme-stats.vercel.app/api?username=webersonss&show_icons=true&theme=dracula)
+
+## 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webersonss&layout=compact)
+
+## Gosto de 
+- jogos : 🎮 🏹 🐉 🌍 
+- Livros : 💀📜 | 🧙‍♂️📖 | 🚀📚
+- PC : 🖥️ ⌨️🖱️
+- Filmes
